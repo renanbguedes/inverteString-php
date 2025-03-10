@@ -1,2 +1,2 @@
-# Instruções
-Rode o script docker-run.sh
+# Execução
+Rode o script `docker-run.sh`
